@@ -1,0 +1,12 @@
+Summary Statistic	joint	prior	likelihood	geography.clock.rate	geography.includedPredictors	geography.coefficientsTimesIndicators1	geography.coefficientsTimesIndicators2	geography.coefficientsTimesIndicators3	geography.coefficientsTimesIndicators4	geography.coefficientsTimesIndicators5	geography.coefficientsTimesIndicators6	geography.coefficientsTimesIndicators7	geography.coefficientsTimesIndicators8	geography.coefficientsTimesIndicators9	geography.branchRates
+mean	-4618.6127	-509.2975	-4109.3152	0.6427	2.7975	5.2892E-3	-0.0302	-0	0.1293	0.9186	-0.0063	-0	0.3756	1.7091E-6	0
+stderr of mean	0.479	0.3578	0.5657	4.5033E-4	0.0114	5.5548E-4	1.0608E-3	6.4593E-5	2.4785E-3	1.0482E-3	6.5756E-4	1.3631E-5	1.0935E-3	2.2021E-5	0
+stdev	29.9602	23.4965	36.4242	0.0296	0.6404	0.0356	0.0613	4.2421E-3	0.1338	0.0684	0.0407	8.9521E-4	0.0681	1.4462E-3	0
+variance	897.6145	552.0839	1326.7251	8.7465E-4	0.4102	1.2671E-3	3.7517E-3	1.7995E-5	0.0179	4.6815E-3	1.657E-3	8.0139E-7	4.6393E-3	2.0915E-6	0
+median	-4618.4771	-508.4435	-4109.0301	0.6422	3	0	0	-0	0.1233	0.9179	0	0	0.3751	-0	0
+value range	[-4718.8073, -4494.2534]	[-610.1804, -440.2593]	[-4252.7733, -3976.2257]	[0.5546, 0.7495]	[1, 5]	[-0.0541, 0.5455]	[-0.2751, -0]	[-0.1393, 0.1774]	[-0, 0.5042]	[0.6686, 1.1917]	[-0.5189, 0.235]	[-0.0418, 0]	[0, 0.6382]	[-0.0616, 0.0502]	[0, 0]
+geometric mean	n/a	n/a	n/a	0.642	2.7241	n/a	n/a	n/a	n/a	0.9161	n/a	n/a	n/a	n/a	n/a
+95% HPD interval	[-4677.7998, -4562.1741]	[-555.2712, -462.9613]	[-4177.3231, -4037.7139]	[0.5863, 0.7047]	[2, 4]	[-0, -0]	[-0.1733, -0]	[0, -0]	[-0, 0.3358]	[0.7849, 1.0494]	[-0, -0]	[0, -0]	[0.2438, 0.5043]	[-0, 0]	n/a
+auto-correlation time (ACT)	1102.5648	1000	1040.158	1000	1361.5918	1050.3206	1293.5977	1000	1479.0179	1012.3078	1125.4691	1000	1111.6033	1000	n/a
+effective sample size (ESS)	3910.9	4312	4145.5	4312	3166.9	4105.4	3333.3	4312	2915.4	4259.6	3831.3	4312	3879.1	4312	n/a
+number of samples	4312	4312	4312	4312	4312	4312	4312	4312	4312	4312	4312	4312	4312	4312	4312
