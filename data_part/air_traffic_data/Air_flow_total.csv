@@ -1,0 +1,577 @@
+period,region_final_dep,region_final_arr,Num_month,Num,Num_per_month
+Period 1,Africa,Africa,,NA,NA
+Period 1,Africa,Europe,39,81347121,2085823.6
+Period 1,Africa,Japan/Korea,39,978126,25080.2
+Period 1,Africa,North America,39,9382236,240570.2
+Period 1,Africa,North China,39,1250935,32075.3
+Period 1,Africa,Oceania,39,1257753,32250.1
+Period 1,Africa,Russia,39,1064885,27304.7
+Period 1,Africa,South America,39,971179,24902
+Period 1,Africa,South China,39,3426118,87849.2
+Period 1,Africa,South-eastern Asia,39,2673540,68552.3
+Period 1,Africa,Southern Asia,39,4148632,106375.2
+Period 1,Africa,Western Asia,39,41079579,1053322.5
+Period 1,Europe,Africa,39,80992670,2076735.1
+Period 1,Europe,Europe,,NA,NA
+Period 1,Europe,Japan/Korea,39,17539250,449724.4
+Period 1,Europe,North America,39,117471987,3012102.2
+Period 1,Europe,North China,39,7008357,179701.5
+Period 1,Europe,Oceania,39,10143804,260097.5
+Period 1,Europe,Russia,39,38232688,980325.3
+Period 1,Europe,South America,39,24028140,616106.2
+Period 1,Europe,South China,39,20301382,520548.3
+Period 1,Europe,South-eastern Asia,39,31989243,820237
+Period 1,Europe,Southern Asia,39,26672884,683920.1
+Period 1,Europe,Western Asia,39,111494209,2858825.9
+Period 1,Japan/Korea,Africa,39,1061472,27217.2
+Period 1,Japan/Korea,Europe,39,17685839,453483.1
+Period 1,Japan/Korea,Japan/Korea,,NA,NA
+Period 1,Japan/Korea,North America,39,21371410,547984.9
+Period 1,Japan/Korea,North China,39,22710390,582317.7
+Period 1,Japan/Korea,Oceania,39,5473575,140348.1
+Period 1,Japan/Korea,Russia,39,2266423,58113.4
+Period 1,Japan/Korea,South America,39,809375,20753.2
+Period 1,Japan/Korea,South China,39,69899919,1792305.6
+Period 1,Japan/Korea,South-eastern Asia,39,58778324,1507136.5
+Period 1,Japan/Korea,Southern Asia,39,3417965,87640.1
+Period 1,Japan/Korea,Western Asia,39,2261151,57978.2
+Period 1,North America,Africa,39,9088041,233026.7
+Period 1,North America,Europe,39,117142684,3003658.6
+Period 1,North America,Japan/Korea,39,21570026,553077.6
+Period 1,North America,North America,,NA,NA
+Period 1,North America,North China,39,6277970,160973.6
+Period 1,North America,Oceania,39,8934891,229099.8
+Period 1,North America,Russia,39,1761275,45160.9
+Period 1,North America,South America,39,29290451,751037.2
+Period 1,North America,South China,39,17320720,444121
+Period 1,North America,South-eastern Asia,39,14456599,370682
+Period 1,North America,Southern Asia,39,14334546,367552.5
+Period 1,North America,Western Asia,39,13212179,338773.8
+Period 1,North China,Africa,39,1334361,34214.4
+Period 1,North China,Europe,39,7078472,181499.3
+Period 1,North China,Japan/Korea,39,22532417,577754.3
+Period 1,North China,North America,39,6183971,158563.4
+Period 1,North China,North China,,NA,NA
+Period 1,North China,Oceania,39,2507010,64282.3
+Period 1,North China,Russia,39,2082437,53395.8
+Period 1,North China,South America,39,224078,5745.6
+Period 1,North China,South China,39,344358998,8829717.9
+Period 1,North China,South-eastern Asia,39,17248536,442270.2
+Period 1,North China,Southern Asia,39,1631409,41831
+Period 1,North China,Western Asia,39,1849744,47429.3
+Period 1,Oceania,Africa,39,1226764,31455.5
+Period 1,Oceania,Europe,39,10680909,273869.5
+Period 1,Oceania,Japan/Korea,39,5715616,146554.3
+Period 1,Oceania,North America,39,9061967,232358.1
+Period 1,Oceania,North China,39,2614572,67040.3
+Period 1,Oceania,Oceania,,NA,NA
+Period 1,Oceania,Russia,39,125012,3205.4
+Period 1,Oceania,South America,39,874034,22411.1
+Period 1,Oceania,South China,39,8827820,226354.4
+Period 1,Oceania,South-eastern Asia,39,19461724,499018.6
+Period 1,Oceania,Southern Asia,39,4551893,116715.2
+Period 1,Oceania,Western Asia,39,1990309,51033.6
+Period 1,Russia,Africa,39,1095435,28088.1
+Period 1,Russia,Europe,39,37911573,972091.6
+Period 1,Russia,Japan/Korea,39,2292825,58790.4
+Period 1,Russia,North America,39,1766674,45299.3
+Period 1,Russia,North China,39,2090720,53608.2
+Period 1,Russia,Oceania,39,145478,3730.2
+Period 1,Russia,Russia,,NA,NA
+Period 1,Russia,South America,39,340432,8729
+Period 1,Russia,South China,39,2266081,58104.6
+Period 1,Russia,South-eastern Asia,39,3265240,83724.1
+Period 1,Russia,Southern Asia,39,1387374,35573.7
+Period 1,Russia,Western Asia,39,16693777,428045.6
+Period 1,South America,Africa,39,972965,24947.8
+Period 1,South America,Europe,39,24046808,616584.8
+Period 1,South America,Japan/Korea,39,799875,20509.6
+Period 1,South America,North America,39,29058721,745095.4
+Period 1,South America,North China,39,230131,5900.8
+Period 1,South America,Oceania,39,888339,22777.9
+Period 1,South America,Russia,39,216141,5542.1
+Period 1,South America,South America,,NA,NA
+Period 1,South America,South China,39,804284,20622.7
+Period 1,South America,South-eastern Asia,39,410042,10513.9
+Period 1,South America,Southern Asia,39,221887,5689.4
+Period 1,South America,Western Asia,39,1132456,29037.3
+Period 1,South China,Africa,39,3423364,87778.6
+Period 1,South China,Europe,39,20150565,516681.2
+Period 1,South China,Japan/Korea,39,68911687,1766966.3
+Period 1,South China,North America,39,17198624,440990.4
+Period 1,South China,North China,39,343122948,8798024.3
+Period 1,South China,Oceania,39,8941422,229267.2
+Period 1,South China,Russia,39,2291546,58757.6
+Period 1,South China,South America,39,835901,21433.4
+Period 1,South China,South China,,NA,NA
+Period 1,South China,South-eastern Asia,39,92872038,2381334.3
+Period 1,South China,Southern Asia,39,6045997,155025.6
+Period 1,South China,Western Asia,39,4213286,108033
+Period 1,South-eastern Asia,Africa,39,2541143,65157.5
+Period 1,South-eastern Asia,Europe,39,31319541,803065.2
+Period 1,South-eastern Asia,Japan/Korea,39,58536712,1500941.3
+Period 1,South-eastern Asia,North America,39,15242418,390831.2
+Period 1,South-eastern Asia,North China,39,17096963,438383.7
+Period 1,South-eastern Asia,Oceania,39,19771771,506968.5
+Period 1,South-eastern Asia,Russia,39,3230859,82842.5
+Period 1,South-eastern Asia,South America,39,400428,10267.4
+Period 1,South-eastern Asia,South China,39,92594989,2374230.5
+Period 1,South-eastern Asia,South-eastern Asia,,NA,NA
+Period 1,South-eastern Asia,Southern Asia,39,24307110,623259.2
+Period 1,South-eastern Asia,Western Asia,39,18748189,480722.8
+Period 1,Southern Asia,Africa,39,4331603,111066.7
+Period 1,Southern Asia,Europe,39,28007704,718146.3
+Period 1,Southern Asia,Japan/Korea,39,3353111,85977.2
+Period 1,Southern Asia,North America,39,15097487,387115.1
+Period 1,Southern Asia,North China,39,1575379,40394.3
+Period 1,Southern Asia,Oceania,39,4930163,126414.4
+Period 1,Southern Asia,Russia,39,1424403,36523.2
+Period 1,Southern Asia,South America,39,240868,6176.1
+Period 1,Southern Asia,South China,39,5995364,153727.3
+Period 1,Southern Asia,South-eastern Asia,39,24134793,618840.8
+Period 1,Southern Asia,Southern Asia,,NA,NA
+Period 1,Southern Asia,Western Asia,39,78795040,2020385.6
+Period 1,Western Asia,Africa,39,41350487,1060268.9
+Period 1,Western Asia,Europe,39,111378982,2855871.3
+Period 1,Western Asia,Japan/Korea,39,2221242,56954.9
+Period 1,Western Asia,North America,39,13094172,335748
+Period 1,Western Asia,North China,39,1924412,49343.9
+Period 1,Western Asia,Oceania,39,2099180,53825.1
+Period 1,Western Asia,Russia,39,16576847,425047.4
+Period 1,Western Asia,South America,39,1238720,31762.1
+Period 1,Western Asia,South China,39,4249048,108949.9
+Period 1,Western Asia,South-eastern Asia,39,18342663,470324.7
+Period 1,Western Asia,Southern Asia,39,79366797,2035046.1
+Period 1,Western Asia,Western Asia,,NA,NA
+Period 2,Africa,Africa,,NA,NA
+Period 2,Africa,Europe,12,4827624,402302
+Period 2,Africa,Japan/Korea,12,40279,3356.6
+Period 2,Africa,North America,12,541841,45153.4
+Period 2,Africa,North China,12,12584,1048.7
+Period 2,Africa,Oceania,12,13873,1156.1
+Period 2,Africa,Russia,12,76075,6339.6
+Period 2,Africa,South America,12,49543,4128.6
+Period 2,Africa,South China,12,87457,7288.1
+Period 2,Africa,South-eastern Asia,12,124448,10370.7
+Period 2,Africa,Southern Asia,12,226755,18896.2
+Period 2,Africa,Western Asia,12,3262268,271855.7
+Period 2,Europe,Africa,12,4771199,397599.9
+Period 2,Europe,Europe,,NA,NA
+Period 2,Europe,Japan/Korea,12,463896,38658
+Period 2,Europe,North America,12,3047094,253924.5
+Period 2,Europe,North China,12,96186,8015.5
+Period 2,Europe,Oceania,12,144777,12064.8
+Period 2,Europe,Russia,12,2203869,183655.8
+Period 2,Europe,South America,12,963801,80316.8
+Period 2,Europe,South China,12,441464,36788.7
+Period 2,Europe,South-eastern Asia,12,682822,56901.8
+Period 2,Europe,Southern Asia,12,1495557,124629.8
+Period 2,Europe,Western Asia,12,7334780,611231.7
+Period 2,Japan/Korea,Africa,12,37062,3088.5
+Period 2,Japan/Korea,Europe,12,491577,40964.8
+Period 2,Japan/Korea,Japan/Korea,,NA,NA
+Period 2,Japan/Korea,North America,12,840930,70077.5
+Period 2,Japan/Korea,North China,12,428037,35669.8
+Period 2,Japan/Korea,Oceania,12,68262,5688.5
+Period 2,Japan/Korea,Russia,12,53753,4479.4
+Period 2,Japan/Korea,South America,12,34132,2844.3
+Period 2,Japan/Korea,South China,12,1263674,105306.2
+Period 2,Japan/Korea,South-eastern Asia,12,1660665,138388.8
+Period 2,Japan/Korea,Southern Asia,12,90930,7577.5
+Period 2,Japan/Korea,Western Asia,12,147120,12260
+Period 2,North America,Africa,12,559563,46630.2
+Period 2,North America,Europe,12,2971708,247642.3
+Period 2,North America,Japan/Korea,12,899026,74918.8
+Period 2,North America,North America,,NA,NA
+Period 2,North America,North China,12,60906,5075.5
+Period 2,North America,Oceania,12,123732,10311
+Period 2,North America,Russia,12,66802,5566.8
+Period 2,North America,South America,12,1431924,119327
+Period 2,North America,South China,12,467738,38978.2
+Period 2,North America,South-eastern Asia,12,326889,27240.8
+Period 2,North America,Southern Asia,12,760566,63380.5
+Period 2,North America,Western Asia,12,742627,61885.6
+Period 2,North China,Africa,12,20769,1730.8
+Period 2,North China,Europe,12,123178,10264.8
+Period 2,North China,Japan/Korea,12,461358,38446.5
+Period 2,North China,North America,12,73961,6163.4
+Period 2,North China,North China,,NA,NA
+Period 2,North China,Oceania,12,30780,2565
+Period 2,North China,Russia,12,10204,850.3
+Period 2,North China,South America,12,1413,117.8
+Period 2,North China,South China,12,84894375,7074531.2
+Period 2,North China,South-eastern Asia,12,237493,19791.1
+Period 2,North China,Southern Asia,12,45095,3757.9
+Period 2,North China,Western Asia,12,40687,3390.6
+Period 2,Oceania,Africa,12,13409,1117.4
+Period 2,Oceania,Europe,12,198040,16503.3
+Period 2,Oceania,Japan/Korea,12,81759,6813.2
+Period 2,Oceania,North America,12,122170,10180.8
+Period 2,Oceania,North China,12,23337,1944.8
+Period 2,Oceania,Oceania,,NA,NA
+Period 2,Oceania,Russia,12,1113,92.8
+Period 2,Oceania,South America,12,7318,609.8
+Period 2,Oceania,South China,12,187039,15586.6
+Period 2,Oceania,South-eastern Asia,12,215100,17925
+Period 2,Oceania,Southern Asia,12,66677,5556.4
+Period 2,Oceania,Western Asia,12,91115,7592.9
+Period 2,Russia,Africa,12,88189,7349.1
+Period 2,Russia,Europe,12,2235101,186258.4
+Period 2,Russia,Japan/Korea,12,67442,5620.2
+Period 2,Russia,North America,12,67553,5629.4
+Period 2,Russia,North China,12,9477,789.8
+Period 2,Russia,Oceania,12,1218,101.5
+Period 2,Russia,Russia,,NA,NA
+Period 2,Russia,South America,12,6388,532.3
+Period 2,Russia,South China,12,20464,1705.3
+Period 2,Russia,South-eastern Asia,12,41498,3458.2
+Period 2,Russia,Southern Asia,12,108718,9059.8
+Period 2,Russia,Western Asia,12,1098071,91505.9
+Period 2,South America,Africa,12,42648,3554
+Period 2,South America,Europe,12,950794,79232.8
+Period 2,South America,Japan/Korea,12,31738,2644.8
+Period 2,South America,North America,12,1486175,123847.9
+Period 2,South America,North China,12,1022,85.2
+Period 2,South America,Oceania,12,4746,395.5
+Period 2,South America,Russia,12,3473,289.4
+Period 2,South America,South America,,NA,NA
+Period 2,South America,South China,12,10749,895.8
+Period 2,South America,South-eastern Asia,12,22319,1859.9
+Period 2,South America,Southern Asia,12,13990,1165.8
+Period 2,South America,Western Asia,12,64123,5343.6
+Period 2,South China,Africa,12,87906,7325.5
+Period 2,South China,Europe,12,457216,38101.3
+Period 2,South China,Japan/Korea,12,1253330,104444.2
+Period 2,South China,North America,12,477797,39816.4
+Period 2,South China,North China,12,84311912,7025992.7
+Period 2,South China,Oceania,12,160532,13377.7
+Period 2,South China,Russia,12,20009,1667.4
+Period 2,South China,South America,12,11226,935.5
+Period 2,South China,South China,,NA,NA
+Period 2,South China,South-eastern Asia,12,1406236,117186.3
+Period 2,South China,Southern Asia,12,206385,17198.8
+Period 2,South China,Western Asia,12,149183,12431.9
+Period 2,South-eastern Asia,Africa,12,120936,10078
+Period 2,South-eastern Asia,Europe,12,764326,63693.8
+Period 2,South-eastern Asia,Japan/Korea,12,2025037,168753.1
+Period 2,South-eastern Asia,North America,12,457903,38158.6
+Period 2,South-eastern Asia,North China,12,223270,18605.8
+Period 2,South-eastern Asia,Oceania,12,252412,21034.3
+Period 2,South-eastern Asia,Russia,12,50815,4234.6
+Period 2,South-eastern Asia,South America,12,24138,2011.5
+Period 2,South-eastern Asia,South China,12,1487382,123948.5
+Period 2,South-eastern Asia,South-eastern Asia,,NA,NA
+Period 2,South-eastern Asia,Southern Asia,12,481602,40133.5
+Period 2,South-eastern Asia,Western Asia,12,980291,81690.9
+Period 2,Southern Asia,Africa,12,260038,21669.8
+Period 2,Southern Asia,Europe,12,1687664,140638.7
+Period 2,Southern Asia,Japan/Korea,12,110353,9196.1
+Period 2,Southern Asia,North America,12,851882,70990.2
+Period 2,Southern Asia,North China,12,34373,2864.4
+Period 2,Southern Asia,Oceania,12,64802,5400.2
+Period 2,Southern Asia,Russia,12,114356,9529.7
+Period 2,Southern Asia,South America,12,16862,1405.2
+Period 2,Southern Asia,South China,12,201665,16805.4
+Period 2,Southern Asia,South-eastern Asia,12,479334,39944.5
+Period 2,Southern Asia,Southern Asia,,NA,NA
+Period 2,Southern Asia,Western Asia,12,6067864,505655.3
+Period 2,Western Asia,Africa,12,3508576,292381.3
+Period 2,Western Asia,Europe,12,7404445,617037.1
+Period 2,Western Asia,Japan/Korea,12,165002,13750.2
+Period 2,Western Asia,North America,12,788587,65715.6
+Period 2,Western Asia,North China,12,37110,3092.5
+Period 2,Western Asia,Oceania,12,137589,11465.8
+Period 2,Western Asia,Russia,12,1087630,90635.8
+Period 2,Western Asia,South America,12,75741,6311.8
+Period 2,Western Asia,South China,12,203130,16927.5
+Period 2,Western Asia,South-eastern Asia,12,1084324,90360.3
+Period 2,Western Asia,Southern Asia,12,6403707,533642.2
+Period 2,Western Asia,Western Asia,,NA,NA
+Period 3,Africa,Africa,,NA,NA
+Period 3,Africa,Europe,24,37135512,1547313
+Period 3,Africa,Japan/Korea,24,239841,9993.4
+Period 3,Africa,North America,24,4829012,201208.8
+Period 3,Africa,North China,24,44988,1874.5
+Period 3,Africa,Oceania,24,312964,13040.2
+Period 3,Africa,Russia,24,1014414,42267.2
+Period 3,Africa,South America,24,246750,10281.2
+Period 3,Africa,South China,24,367823,15326
+Period 3,Africa,South-eastern Asia,24,739872,30828
+Period 3,Africa,Southern Asia,24,1729980,72082.5
+Period 3,Africa,Western Asia,24,21092327,878847
+Period 3,Europe,Africa,24,37070330,1544597.1
+Period 3,Europe,Europe,,NA,NA
+Period 3,Europe,Japan/Korea,24,2973156,123881.5
+Period 3,Europe,North America,24,43728493,1822020.5
+Period 3,Europe,North China,24,281003,11708.5
+Period 3,Europe,Oceania,24,2129375,88724
+Period 3,Europe,Russia,24,6749847,281243.6
+Period 3,Europe,South America,24,9781620,407567.5
+Period 3,Europe,South China,24,1715355,71473.1
+Period 3,Europe,South-eastern Asia,24,7306576,304440.7
+Period 3,Europe,Southern Asia,24,10245320,426888.3
+Period 3,Europe,Western Asia,24,56530895,2355454
+Period 3,Japan/Korea,Africa,24,228116,9504.8
+Period 3,Japan/Korea,Europe,24,3120602,130025.1
+Period 3,Japan/Korea,Japan/Korea,,NA,NA
+Period 3,Japan/Korea,North America,24,4982627,207609.5
+Period 3,Japan/Korea,North China,24,583770,24323.8
+Period 3,Japan/Korea,Oceania,24,813935,33914
+Period 3,Japan/Korea,Russia,24,137157,5714.9
+Period 3,Japan/Korea,South America,24,179342,7472.6
+Period 3,Japan/Korea,South China,24,4439628,184984.5
+Period 3,Japan/Korea,South-eastern Asia,24,10435056,434794
+Period 3,Japan/Korea,Southern Asia,24,857956,35748.2
+Period 3,Japan/Korea,Western Asia,24,632585,26357.7
+Period 3,North America,Africa,24,4347992,181166.3
+Period 3,North America,Europe,24,42331215,1763800.6
+Period 3,North America,Japan/Korea,24,5059915,210829.8
+Period 3,North America,North America,,NA,NA
+Period 3,North America,North China,24,133657,5569
+Period 3,North America,Oceania,24,2067941,86164.2
+Period 3,North America,Russia,24,288950,12039.6
+Period 3,North America,South America,24,13768839,573701.6
+Period 3,North America,South China,24,1786274,74428.1
+Period 3,North America,South-eastern Asia,24,4190658,174610.8
+Period 3,North America,Southern Asia,24,6246201,260258.4
+Period 3,North America,Western Asia,24,7173273,298886.4
+Period 3,North China,Africa,24,69285,2886.9
+Period 3,North China,Europe,24,355010,14792.1
+Period 3,North China,Japan/Korea,24,615355,25639.8
+Period 3,North China,North America,24,249388,10391.2
+Period 3,North China,North China,,NA,NA
+Period 3,North China,Oceania,24,159514,6646.4
+Period 3,North China,Russia,24,44546,1856.1
+Period 3,North China,South America,24,7495,312.3
+Period 3,North China,South China,24,159485158,6645214.9
+Period 3,North China,South-eastern Asia,24,659929,27497
+Period 3,North China,Southern Asia,24,148905,6204.4
+Period 3,North China,Western Asia,24,109774,4573.9
+Period 3,Oceania,Africa,24,286221,11925.9
+Period 3,Oceania,Europe,24,2280883,95036.8
+Period 3,Oceania,Japan/Korea,24,844463,35186
+Period 3,Oceania,North America,24,2142850,89285.4
+Period 3,Oceania,North China,24,104315,4346.5
+Period 3,Oceania,Oceania,,NA,NA
+Period 3,Oceania,Russia,24,18534,772.2
+Period 3,Oceania,South America,24,149291,6220.5
+Period 3,Oceania,South China,24,825237,34384.9
+Period 3,Oceania,South-eastern Asia,24,4256883,177370.1
+Period 3,Oceania,Southern Asia,24,1548732,64530.5
+Period 3,Oceania,Western Asia,24,680656,28360.7
+Period 3,Russia,Africa,24,1028169,42840.4
+Period 3,Russia,Europe,24,6870065,286252.7
+Period 3,Russia,Japan/Korea,24,159698,6654.1
+Period 3,Russia,North America,24,312599,13025
+Period 3,Russia,North China,24,42475,1769.8
+Period 3,Russia,Oceania,24,21314,888.1
+Period 3,Russia,Russia,,NA,NA
+Period 3,Russia,South America,24,50814,2117.2
+Period 3,Russia,South China,24,101730,4238.8
+Period 3,Russia,South-eastern Asia,24,721210,30050.4
+Period 3,Russia,Southern Asia,24,737489,30728.7
+Period 3,Russia,Western Asia,24,8507999,354500
+Period 3,South America,Africa,24,198325,8263.5
+Period 3,South America,Europe,24,9674634,403109.8
+Period 3,South America,Japan/Korea,24,166457,6935.7
+Period 3,South America,North America,24,13809380,575390.8
+Period 3,South America,North China,24,4258,177.4
+Period 3,South America,Oceania,24,155325,6471.9
+Period 3,South America,Russia,24,40838,1701.6
+Period 3,South America,South America,,NA,NA
+Period 3,South America,South China,24,51092,2128.8
+Period 3,South America,South-eastern Asia,24,154970,6457.1
+Period 3,South America,Southern Asia,24,119414,4975.6
+Period 3,South America,Western Asia,24,650646,27110.2
+Period 3,South China,Africa,24,403540,16814.2
+Period 3,South China,Europe,24,1788455,74519
+Period 3,South China,Japan/Korea,24,4473293,186387.2
+Period 3,South China,North America,24,1967781,81990.9
+Period 3,South China,North China,24,160343572,6680982.2
+Period 3,South China,Oceania,24,808740,33697.5
+Period 3,South China,Russia,24,111404,4641.8
+Period 3,South China,South America,24,58077,2419.9
+Period 3,South China,South China,,NA,NA
+Period 3,South China,South-eastern Asia,24,6789703,282904.3
+Period 3,South China,Southern Asia,24,708856,29535.7
+Period 3,South China,Western Asia,24,570861,23785.9
+Period 3,South-eastern Asia,Africa,24,739105,30796
+Period 3,South-eastern Asia,Europe,24,7130715,297113.1
+Period 3,South-eastern Asia,Japan/Korea,24,10765838,448576.6
+Period 3,South-eastern Asia,North America,24,4490650,187110.4
+Period 3,South-eastern Asia,North China,24,548184,22841
+Period 3,South-eastern Asia,Oceania,24,4399085,183295.2
+Period 3,South-eastern Asia,Russia,24,664649,27693.7
+Period 3,South-eastern Asia,South America,24,173843,7243.5
+Period 3,South-eastern Asia,South China,24,6341345,264222.7
+Period 3,South-eastern Asia,South-eastern Asia,,NA,NA
+Period 3,South-eastern Asia,Southern Asia,24,6721190,280049.6
+Period 3,South-eastern Asia,Western Asia,24,6392447,266352
+Period 3,Southern Asia,Africa,24,1887120,78630
+Period 3,Southern Asia,Europe,24,11245737,468572.4
+Period 3,Southern Asia,Japan/Korea,24,814868,33952.8
+Period 3,Southern Asia,North America,24,7106586,296107.8
+Period 3,Southern Asia,North China,24,100145,4172.7
+Period 3,Southern Asia,Oceania,24,1648689,68695.4
+Period 3,Southern Asia,Russia,24,772577,32190.7
+Period 3,Southern Asia,South America,24,127390,5307.9
+Period 3,Southern Asia,South China,24,649001,27041.7
+Period 3,Southern Asia,South-eastern Asia,24,6609552,275398
+Period 3,Southern Asia,Southern Asia,,NA,NA
+Period 3,Southern Asia,Western Asia,24,36046058,1501919.1
+Period 3,Western Asia,Africa,24,21544678,897694.9
+Period 3,Western Asia,Europe,24,57267916,2386163.2
+Period 3,Western Asia,Japan/Korea,24,695863,28994.3
+Period 3,Western Asia,North America,24,7434728,309780.3
+Period 3,Western Asia,North China,24,109985,4582.7
+Period 3,Western Asia,Oceania,24,800709,33362.9
+Period 3,Western Asia,Russia,24,8492392,353849.7
+Period 3,Western Asia,South America,24,747208,31133.7
+Period 3,Western Asia,South China,24,665050,27710.4
+Period 3,Western Asia,South-eastern Asia,24,6545070,272711.2
+Period 3,Western Asia,Southern Asia,24,37431967,1559665.3
+Period 3,Western Asia,Western Asia,,NA,NA
+Period 4,Africa,Africa,,NA,NA
+Period 4,Africa,Europe,9,22400829,2488981
+Period 4,Africa,Japan/Korea,9,161883,17987
+Period 4,Africa,North America,9,2642702,293633.6
+Period 4,Africa,North China,9,183013,20334.8
+Period 4,Africa,Oceania,9,239796,26644
+Period 4,Africa,Russia,9,631914,70212.7
+Period 4,Africa,South America,9,153566,17062.9
+Period 4,Africa,South China,9,603616,67068.4
+Period 4,Africa,South-eastern Asia,9,510423,56713.7
+Period 4,Africa,Southern Asia,9,1083983,120442.6
+Period 4,Africa,Western Asia,9,11575272,1286141.3
+Period 4,Europe,Africa,9,22583003,2509222.6
+Period 4,Europe,Europe,,NA,NA
+Period 4,Europe,Japan/Korea,9,3265465,362829.4
+Period 4,Europe,North America,9,30446157,3382906.3
+Period 4,Europe,North China,9,893023,99224.8
+Period 4,Europe,Oceania,9,2000328,222258.7
+Period 4,Europe,Russia,9,1068450,118716.7
+Period 4,Europe,South America,9,5677848,630872
+Period 4,Europe,South China,9,3347265,371918.3
+Period 4,Europe,South-eastern Asia,9,5913943,657104.8
+Period 4,Europe,Southern Asia,9,5848014,649779.3
+Period 4,Europe,Western Asia,9,33839702,3759966.9
+Period 4,Japan/Korea,Africa,9,179255,19917.2
+Period 4,Japan/Korea,Europe,9,3347569,371952.1
+Period 4,Japan/Korea,Japan/Korea,,NA,NA
+Period 4,Japan/Korea,North America,9,4176003,464000.3
+Period 4,Japan/Korea,North China,9,3042160,338017.8
+Period 4,Japan/Korea,Oceania,9,1174174,130463.8
+Period 4,Japan/Korea,Russia,9,81437,9048.6
+Period 4,Japan/Korea,South America,9,140664,15629.3
+Period 4,Japan/Korea,South China,9,11751088,1305676.4
+Period 4,Japan/Korea,South-eastern Asia,9,12447895,1383099.4
+Period 4,Japan/Korea,Southern Asia,9,700297,77810.8
+Period 4,Japan/Korea,Western Asia,9,469590,52176.7
+Period 4,North America,Africa,9,2393694,265966
+Period 4,North America,Europe,9,28828304,3203144.9
+Period 4,North America,Japan/Korea,9,4151461,461273.4
+Period 4,North America,North America,,NA,NA
+Period 4,North America,North China,9,390116,43346.2
+Period 4,North America,Oceania,9,1572025,174669.4
+Period 4,North America,Russia,9,71844,7982.7
+Period 4,North America,South America,9,6564535,729392.8
+Period 4,North America,South China,9,2314666,257185.1
+Period 4,North America,South-eastern Asia,9,3165919,351768.8
+Period 4,North America,Southern Asia,9,3552443,394715.9
+Period 4,North America,Western Asia,9,3662063,406895.9
+Period 4,North China,Africa,9,202630,22514.4
+Period 4,North China,Europe,9,949482,105498
+Period 4,North China,Japan/Korea,9,2951859,327984.3
+Period 4,North China,North America,9,438316,48701.8
+Period 4,North China,North China,,NA,NA
+Period 4,North China,Oceania,9,387765,43085
+Period 4,North China,Russia,9,264164,29351.6
+Period 4,North China,South America,9,35618,3957.6
+Period 4,North China,South China,9,95070820,10563424.4
+Period 4,North China,South-eastern Asia,9,2261943,251327
+Period 4,North China,Southern Asia,9,232037,25781.9
+Period 4,North China,Western Asia,9,368092,40899.1
+Period 4,Oceania,Africa,9,233620,25957.8
+Period 4,Oceania,Europe,9,2085334,231703.8
+Period 4,Oceania,Japan/Korea,9,1191600,132400
+Period 4,Oceania,North America,9,1628010,180890
+Period 4,Oceania,North China,9,354107,39345.2
+Period 4,Oceania,Oceania,,NA,NA
+Period 4,Oceania,Russia,9,16483,1831.4
+Period 4,Oceania,South America,9,134459,14939.9
+Period 4,Oceania,South China,9,1357087,150787.4
+Period 4,Oceania,South-eastern Asia,9,4129023,458780.3
+Period 4,Oceania,Southern Asia,9,1026439,114048.8
+Period 4,Oceania,Western Asia,9,472187,52465.2
+Period 4,Russia,Africa,9,664417,73824.1
+Period 4,Russia,Europe,9,1058824,117647.1
+Period 4,Russia,Japan/Korea,9,81473,9052.6
+Period 4,Russia,North America,9,66247,7360.8
+Period 4,Russia,North China,9,255153,28350.3
+Period 4,Russia,Oceania,9,19499,2166.6
+Period 4,Russia,Russia,,NA,NA
+Period 4,Russia,South America,9,22406,2489.6
+Period 4,Russia,South China,9,335142,37238
+Period 4,Russia,South-eastern Asia,9,714879,79431
+Period 4,Russia,Southern Asia,9,402213,44690.3
+Period 4,Russia,Western Asia,9,5644942,627215.8
+Period 4,South America,Africa,9,132790,14754.4
+Period 4,South America,Europe,9,5515853,612872.6
+Period 4,South America,Japan/Korea,9,141391,15710.1
+Period 4,South America,North America,9,7041108,782345.3
+Period 4,South America,North China,9,34457,3828.6
+Period 4,South America,Oceania,9,138248,15360.9
+Period 4,South America,Russia,9,22600,2511.1
+Period 4,South America,South America,,NA,NA
+Period 4,South America,South China,9,116385,12931.7
+Period 4,South America,South-eastern Asia,9,84811,9423.4
+Period 4,South America,Southern Asia,9,62751,6972.3
+Period 4,South America,Western Asia,9,346654,38517.1
+Period 4,South China,Africa,9,615990,68443.3
+Period 4,South China,Europe,9,3386018,376224.2
+Period 4,South China,Japan/Korea,9,11643414,1293712.7
+Period 4,South China,North America,9,2326472,258496.9
+Period 4,South China,North China,9,95723330,10635925.6
+Period 4,South China,Oceania,9,1308705,145411.7
+Period 4,South China,Russia,9,335977,37330.8
+Period 4,South China,South America,9,131153,14572.6
+Period 4,South China,South China,,NA,NA
+Period 4,South China,South-eastern Asia,9,14849939,1649993.2
+Period 4,South China,Southern Asia,9,855419,95046.6
+Period 4,South China,Western Asia,9,880916,97879.6
+Period 4,South-eastern Asia,Africa,9,534960,59440
+Period 4,South-eastern Asia,Europe,9,5835360,648373.3
+Period 4,South-eastern Asia,Japan/Korea,9,12398762,1377640.2
+Period 4,South-eastern Asia,North America,9,3304923,367213.7
+Period 4,South-eastern Asia,North China,9,2195576,243952.9
+Period 4,South-eastern Asia,Oceania,9,4321347,480149.7
+Period 4,South-eastern Asia,Russia,9,693924,77102.7
+Period 4,South-eastern Asia,South America,9,90760,10084.4
+Period 4,South-eastern Asia,South China,9,14786252,1642916.9
+Period 4,South-eastern Asia,South-eastern Asia,,NA,NA
+Period 4,South-eastern Asia,Southern Asia,9,5597779,621975.4
+Period 4,South-eastern Asia,Western Asia,9,4249192,472132.4
+Period 4,Southern Asia,Africa,9,1110170,123352.2
+Period 4,Southern Asia,Europe,9,6349730,705525.6
+Period 4,Southern Asia,Japan/Korea,9,676837,75204.1
+Period 4,Southern Asia,North America,9,3839695,426632.8
+Period 4,Southern Asia,North China,9,210417,23379.7
+Period 4,Southern Asia,Oceania,9,1059182,117686.9
+Period 4,Southern Asia,Russia,9,425916,47324
+Period 4,Southern Asia,South America,9,71989,7998.8
+Period 4,Southern Asia,South China,9,842548,93616.4
+Period 4,Southern Asia,South-eastern Asia,9,5510672,612296.9
+Period 4,Southern Asia,Southern Asia,,NA,NA
+Period 4,Southern Asia,Western Asia,9,19383378,2153708.7
+Period 4,Western Asia,Africa,9,11662016,1295779.6
+Period 4,Western Asia,Europe,9,34235066,3803896.2
+Period 4,Western Asia,Japan/Korea,9,468884,52098.2
+Period 4,Western Asia,North America,9,3732673,414741.4
+Period 4,Western Asia,North China,9,365557,40617.4
+Period 4,Western Asia,Oceania,9,524320,58257.8
+Period 4,Western Asia,Russia,9,5534434,614937.1
+Period 4,Western Asia,South America,9,389554,43283.8
+Period 4,Western Asia,South China,9,851477,94608.6
+Period 4,Western Asia,South-eastern Asia,9,4213850,468205.6
+Period 4,Western Asia,Southern Asia,9,20151301,2239033.4
+Period 4,Western Asia,Western Asia,,NA,NA
