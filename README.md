@@ -1,6 +1,6 @@
 # COVID-19 pandemic interventions reshaped the global dispersal of seasonal influenza viruses
 
-Zhiyuan Chen<sup>1,2</sup>, Joseph L.-H. Tsui<sup>2</sup>, Bernardo Gutierrez<sup>2,3</sup>, Simon Busch Moreno<sup>2</sup>, Louis du Plessis<sup>4,5</sup>, Xiaowei Deng<sup>6</sup>, Jun Cai<sup>1</sup>, Sumali Bajaj<sup>2</sup>, Marc A. Suchard<sup>7</sup>, Oliver G. Pybus<sup>2,8,9,‡,†</sup>, Philippe Lemey<sup>10,‡,†</sup>, Moritz U. G. Kraemer<sup>2,9,‡,†</sup>, Hongjie Yu<sup>1,‡,†</sup>
+Zhiyuan Chen<sup>1</sup>, Joseph L.-H. Tsui<sup>2</sup>, Bernardo Gutierrez<sup>2,3</sup>, Simon Busch Moreno<sup>2</sup>, Louis du Plessis<sup>4,5</sup>, Xiaowei Deng<sup>6</sup>, Jun Cai<sup>1</sup>, Sumali Bajaj<sup>2</sup>, Marc A. Suchard<sup>7</sup>, Oliver G. Pybus<sup>2,8,9,‡,†</sup>, Philippe Lemey<sup>10,‡,†</sup>, Moritz U. G. Kraemer<sup>2,9,‡,†</sup>, Hongjie Yu<sup>1,10,11,‡,†</sup>
 
 1.	Department of Epidemiology, School of Public Health, Key Laboratory of Public Health Safety, Ministry of Education, Fudan University, Shanghai, China
 2.	Department of Biology, University of Oxford, Oxford, UK
@@ -12,7 +12,8 @@ Zhiyuan Chen<sup>1,2</sup>, Joseph L.-H. Tsui<sup>2</sup>, Bernardo Gutierrez<su
 8.	Department of Pathobiology and Population Sciences, Royal Veterinary College, London, UK
 9.  Pandemic Sciences Institute, University of Oxford, Oxford, UK
 10.	Department of Microbiology, Immunology and Transplantation, Rega Institute, KU Leuven, Leuven, Belgium
-
+11.	Shanghai Institute of Infectious Disease and Biosecurity, Fudan University; Shanghai, China
+12.	Department of Infectious Diseases, Huashan Hospital, Fudan University; Shanghai, China
 
 <sup>‡</sup> Contributed equally to this work  
 <sup>†</sup> Correspondence: moritz.kraemer@biology.ox.ac.uk; philippe.lemey@kuleuven.be; yhj@fudan.edu.cn; opybus@rvc.ac.uk
@@ -20,9 +21,8 @@ Zhiyuan Chen<sup>1,2</sup>, Joseph L.-H. Tsui<sup>2</sup>, Bernardo Gutierrez<su
 ## Before starting
 1. This repository contains code and data used in the paper entitled "COVID-19 pandemic interventions reshaped the global dispersal of seasonal influenza viruses"  
 2. All code and data contained within this repository is released under the CC BY-NC-SA License. 
-3. Genetic data has not been provided due to the policy restriction, and can be accessed in NCBI (https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/) and GISAID (https://www.gisaid.org/). 
-4. Map files have not been provided due to redistribution restriction, and can be accessed in GADM (https://gadm.org/data.html).  
-5. Due to the large sizes of Markov jumps files used in the paper, we have reduced the file size by including few tree files as an example.
+3. Sequences have not been provided due to the policy restriction, and can be accessed in NCBI (https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/) and GISAID (https://www.gisaid.org/).  
+4. Due to the large sizes of Markov jumps files used in the paper, we have reduced the file size by including few tree files as an example (raw files have been publicly deposited elsewhere).
 
 ## Repository structure and usage
 The structure of this repository is shown below.  
@@ -30,35 +30,33 @@ Data are deposited in "data_part", codes and results for genomics-based analyses
 
 ```
 global_influenza_project/
-├── data_part
+├── data
 │   ├── air_traffic_data
 │   ├── epi_data
+│   ├── genomic_data
 │   ├── map_data
-├── genomic_part
-│   ├── phylogenetic_analyses
-│   ├── phylogeographic_analyses
-│   │   ├── step1
-│   │   └── step2
-│   ├── post-analyses
-│   │   ├── glm_log_file
-│   │   ├── trunk
-│   │   ├── jump_history
-│   │   ├── dwell_time
-│   │   ├── mcc_tree
-│   │   ├── diversity
-│   │   ├── pop_size
-│   │   └── nature_selection
-│   └── acknowledge_table
-├── model_part
-│   ├── bayesian_model.py
-│   ├── regression_plots
-│   └── forest_plots
-├── figure_scripts
-│   ├── Fig1.r
-│   ├── Fig2.r
-│   ├── Fig3.r
-│   ├── Fig4.r
-│   └── output
+├── phylogenetic_analysis
+├── phylogeographic_analyses
+│   ├── step1
+│   ├── step2
+├── analysis_main_figures
+│   ├── Epi_analysis_Fig1.r
+│   ├── Air_traffic_analysis_Fig2.r
+│   ├── Flu_movement_analysis_Fig3.r
+│   ├── Flu_genetic_diveristy_Fig4.r
+├── analysis_others
+│   ├── glm_log_file
+│   ├── trunk
+│   ├── jump_history
+│   ├── dwell_time
+│   ├── mcc_tree
+│   ├── diversity
+│   ├── pop_size
+│   └── nature_selection
+├── regression_analysis
+│   ├── bayesian_model_v2.py
+│   └── forest_plots_epoch
+├── acknowledgement_table
 └── README.md
 ```
 
