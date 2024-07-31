@@ -26,7 +26,6 @@ Zhiyuan Chen<sup>1</sup>, Joseph L.-H. Tsui<sup>2</sup>, Bernardo Gutierrez<sup>
 
 ## Repository structure and usage
 The structure of this repository is shown below.  
-Data are deposited in "data_part", codes and results for genomics-based analyses are deposited in "genomic_part", codes for the regression model are deposited in "model_part", and codes for generating the main figures can be found in "figure_scripts".
 
 ```
 global_influenza_project/
