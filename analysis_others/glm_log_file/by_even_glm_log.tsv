@@ -1,0 +1,12 @@
+Summary Statistic	joint	prior	likelihood	geography.clock.rate	geography.includedPredictors	geography.coefficientsTimesIndicators1	geography.coefficientsTimesIndicators2	geography.coefficientsTimesIndicators3	geography.coefficientsTimesIndicators4	geography.coefficientsTimesIndicators5	geography.coefficientsTimesIndicators6	geography.coefficientsTimesIndicators7	geography.coefficientsTimesIndicators8	geography.coefficientsTimesIndicators9	geography.coefficientsTimesIndicators10	geography.coefficientsTimesIndicators11	geography.branchRates
+mean	-4623.375	-513.684	-4109.691	0.6425	2.7389	3.7417E-3	-0.0276	-0	0.1215	0.9178	-0.0059	-0	0.3745	-0	-0.0005	1.1456E-4	0
+stderr of mean	0.4504	0.3576	0.5511	4.6144E-4	0.0118	4.4747E-4	1.0283E-3	3.2294E-5	2.5775E-3	1.0176E-3	5.844E-4	2.4093E-5	1.0669E-3	2.9735E-5	1.8773E-4	5.1858E-5	0
+stdev	29.9819	23.1809	35.7337	0.0293	0.6549	0.03	0.0601	2.1668E-3	0.1337	0.0683	0.0387	1.6166E-3	0.0678	1.9951E-3	0.0122	3.4795E-3	0
+variance	898.9151	537.3554	1276.8976	8.5879E-4	0.4289	9.0143E-4	3.6142E-3	4.695E-6	0.0179	4.6619E-3	1.4956E-3	2.6134E-6	4.6023E-3	3.9804E-6	1.4805E-4	1.2107E-5	0
+median	-4623.6649	-512.8811	-4109.7935	0.6418	3	0	0	-0	0	0.918	-0	0	0.375	0	0	0	0
+value range	[-4728.4377, -4503.336]	[-622.0901, -437.4117]	[-4257.0177, -3989.0849]	[0.532, 0.7638]	[1, 5]	[-0.0367, 0.4862]	[-0.3452, 1.0964E-3]	[-0.0639, 0.1049]	[0, 0.5763]	[0.6837, 1.2079]	[-0.5047, 0.129]	[-0.0924, 0.0422]	[-0, 0.5965]	[-0.0946, 0.0516]	[-0.2403, 0.1834]	[-0.0509, 0.1116]	[0, 0]
+geometric mean	n/a	n/a	n/a	0.6419	2.6621	n/a	n/a	n/a	n/a	0.9152	n/a	n/a	n/a	n/a	n/a	n/a	n/a
+95% HPD interval	[-4679.0125, -4564.1578]	[-558.4796, -468.1988]	[-4176.1256, -4035.1085]	[0.5872, 0.7033]	[2, 4]	[0, -0]	[-0.172, -0]	[-0, -0]	[-0, 0.3329]	[0.7814, 1.0453]	[0, 0]	[0, 0]	[0.2427, 0.5007]	[-0, -0]	[-0, 0]	[0, -0]	n/a
+auto-correlation time (ACT)	1015.8153	1071.5878	1070.647	1116.2298	1458.1996	1000	1317.2495	1000	1672.258	1000	1028.0114	1000	1113.5493	1000	1071.6788	1000	n/a
+effective sample size (ESS)	4430.9	4200.3	4204	4032.3	3086.7	4501	3417	4501	2691.6	4501	4378.4	4501	4042	4501	4200	4501	n/a
+number of samples	4501	4501	4501	4501	4501	4501	4501	4501	4501	4501	4501	4501	4501	4501	4501	4501	4501
