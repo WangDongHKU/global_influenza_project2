@@ -1,0 +1,1 @@
+Map files (shp.) in China at country- and provice- resolution can be downloaded from https://github.com/GaryBikini/ChinaAdminDivisonSHP
