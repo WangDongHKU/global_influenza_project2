@@ -22,7 +22,6 @@ Zhiyuan Chen<sup>1</sup>, Joseph L.-H. Tsui<sup>2</sup>, Bernardo Gutierrez<sup>
 1. This repository contains code and data used in the paper entitled "COVID-19 pandemic interventions reshaped the global dispersal of seasonal influenza viruses"  
 2. All code and data contained within this repository is released under the CC BY-NC-SA License. 
 3. Sequences have not been provided due to the policy restriction, and can be accessed in NCBI (https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/) and GISAID (https://www.gisaid.org/).  
-4. Due to the large sizes of Markov jumps files used in the paper, we have reduced the file size by including few tree files as an example (raw files have been publicly deposited elsewhere).
 
 ## Repository structure and usage
 The structure of this repository is shown below.  
@@ -33,16 +32,17 @@ global_influenza_project/
 │   ├── air_traffic_data
 │   ├── epi_data
 │   ├── genomic_data
-│   ├── map_data
+│   ├── genomic_data_subsample
+│   └── map_data
 ├── phylogenetic_analysis
 ├── phylogeographic_analyses
 │   ├── step1
-│   ├── step2
+│   └── step2
 ├── analysis_main_figures
 │   ├── Epi_analysis_Fig1.r
 │   ├── Air_traffic_analysis_Fig2.r
 │   ├── Flu_movement_analysis_Fig3.r
-│   ├── Flu_genetic_diveristy_Fig4.r
+│   └── Flu_genetic_diveristy_Fig4.r
 ├── analysis_others
 │   ├── glm_log_file
 │   ├── trunk
