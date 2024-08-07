@@ -20,8 +20,8 @@ Zhiyuan Chen<sup>1</sup>, Joseph L.-H. Tsui<sup>2</sup>, Bernardo Gutierrez<sup>
 
 ## Before starting
 1. This repository contains code and data used in the paper entitled "COVID-19 pandemic interventions reshaped the global dispersal of seasonal influenza viruses"  
-2. All code and data contained within this repository is released under the CC BY-NC-SA License. 
-3. Sequences have not been provided due to the policy restriction, and can be accessed in NCBI (https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/) and GISAID (https://www.gisaid.org/).  
+2. All code and data contained within this repository are released under the CC BY-NC-SA License. 
+3. Because of GISAID [terms of use](https://www.gisaid.org/registration/terms-of-use/), sequence data are not provided. All sequence identifiers are provided and sequences can be downloaded from [NCBI](https://www.ncbi.nlm.nih.gov/labs/virus/vssi/#/) or [GISAID](https://www.gisaid.org/).  
 
 ## Repository structure and usage
 The structure of this repository is shown below.  
